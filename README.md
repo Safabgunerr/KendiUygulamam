@@ -1,1 +1,3 @@
-İLK DENEMELER
+# İLK DENEMELER
+ 
+- bazı denemeler yapıyorum
